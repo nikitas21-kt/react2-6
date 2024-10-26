@@ -60,3 +60,13 @@ h2 {
   font-size: 40px;
   font-weight: 500;
 }
+
+.slider {
+  padding: 100px 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 60px;
+  
+}
